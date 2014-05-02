@@ -155,9 +155,9 @@ Besides the packaged themes, I take advantage of the following packages to speed
 
 Download this now!
 
-### Anacanda
+### Anaconda
 
-**[Anacanda](https://sublime.wbond.net/packages/Anaconda)** is the ultimate Python package; it adds a number of IDE-like features to ST3 including:
+**[Anaconda](https://sublime.wbond.net/packages/Anaconda)** is the ultimate Python package; it adds a number of IDE-like features to ST3 including:
 
   - **Autocompletion** works by default, but there are a number of configuration [options](https://github.com/DamnWidget/anaconda#anaconda-autocompletion).
   - **Code linting** uses either PyLint or PyFlakes with pep8. I personally use a different liting package, so I disable linting altogether within the user-defined Anaconda settings file, *Anaconda.sublime-settings*.
@@ -176,6 +176,8 @@ Download this now!
     ![st3_anaconda_show_docs](https://raw.githubusercontent.com/mjhea0/sublime-setup-for-python/master/img/st3_anaconda_show_docs.png)
 
   You can view all of the features [here](https://github.com/DamnWidget/anaconda). Or within the README file in ST3's Package Settings: **Sublime Text > Preferences > Package Settings > Anaconda > README**.
+
+  > [SublimeCodeIntel](https://sublime.wbond.net/packages/SublimeCodeIntel) is another popular package, which has many of the same features as Anaconda. I suugest testing them both out.
 
 ### Djaneiro
 
@@ -215,6 +217,8 @@ You can customize each linter in the user-defined *SublimeLinter.sublime-setting
 **[GitGutter](https://sublime.wbond.net/packages/GitGutter)** shows little icons in ST3's gutter area that indicate whether a line has been insereted, modified, or deleted since the last commit.
 
 ![st3_gitgutter](https://raw.githubusercontent.com/mjhea0/sublime-setup-for-python/master/img/st3_gitgutter.png)
+
+> If you want support for a number distributed version control systems (Git, SVN, Bazaar and Mercurial), check out [Modific](https://sublime.wbond.net/packages/Modific)
 
 ### FTPSync
 
@@ -331,8 +335,9 @@ For example:
 ## Additional Resources
 
 1. [Community-maintained documentation](http://docs.sublimetext.info/en/latest/index.html)
-2. [Package Manager documentation](https://sublime.wbond.net/docs)
-3. [Unoffical documentatuon reference](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/reference.html)
+1. [Package Manager documentation](https://sublime.wbond.net/docs)
+1. [Unoffical documentatuon reference](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/reference.html)
+1. [Pimp my Editor - Presentation](http://slides.com/nicklang/pimp-my-editor)
 
 ## Conclusion
 
